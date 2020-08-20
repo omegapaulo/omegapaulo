@@ -1,5 +1,5 @@
-# <h1 align="center">Hi</h1>
-  <h2 align="center">I WORK WITH</h2>
+# <p align="center">Hi</p>
+  <p align="center">I WORK WITH</p>
   <p align="center">
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg alt=css3 width="60"/> 
@@ -14,13 +14,12 @@
 
 <br>
    <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> 
-<div>
-<p> 🔭 I’m currently working on building vanilla **JavaScript** and **React** projects to refine my front-end skills.</p>
-<p>🌱 I’m currently learning back-end development with **NodeJS****Express** and **MongoDB**</p>
-<p> 👯 I’m looking to collaborate on any kind of projects that hav**JavaScript**/**TypeScript** as language of choice.</p> 
-- 🤔 I’m looking for help with **algorithms**, **data structure** anon how to achieve a developer's thinking mind. 
-- ⚡ Fun fact: **I always thought I was smart until I start coding*:laughing: :laughing:
-</div>
+
+- 🔭 I’m currently working on building vanilla **JavaScript** and **React** projects to refine my front-end skills.
+- 🌱 I’m currently learning back-end development with **NodeJS**, **Express** and **MongoDB**
+- 👯 I’m looking to collaborate on any kind of projects that have **JavaScript**/**TypeScript** as language of choice. 
+- 🤔 I’m looking for help with **algorithms**, **data structure** and on how to achieve a developer's thinking mind. 
+- ⚡ Fun fact: **I always thought I was smart until I start coding** :laughing: :laughing:
  <h3 align="center">📫 How to reach me 📫</h3>
 
  <p align="center">
