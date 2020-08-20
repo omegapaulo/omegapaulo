@@ -1,8 +1,9 @@
-# <p align="center">Welcome! <br> I am Omega <br> </p>
+# <p align="center">Welcome! <br> I am Omega. <br> </p>
   <p align="center">I WORK WITH</p>
   <p align="center">
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg alt=css3 width="60"/> 
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=css3 width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg alt=react width="60"/>
   <br> 
@@ -10,16 +11,17 @@
   <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg alt=react width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg alt=react width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg alt=react width="60"/> 
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg alt=react width="60"/> 
  </p>
 
 <br>
    <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> 
 
-- 🔭 I’m currently working on building vanilla **JavaScript** and **React** projects to refine my front-end skills.
-- 🌱 I’m currently learning back-end development with **NodeJS**, **Express** and **MongoDB**
-- 👯 I’m looking to collaborate on any kind of projects that have **JavaScript**/**TypeScript** as language of choice. 
-- 🤔 I’m looking for help with **algorithms**, **data structure** and on how to achieve a developer's thinking mind. 
-- ⚡ Fun fact: **I always thought I was smart until I start coding** :laughing: :laughing:
+> - 🔭 I’m currently working on building vanilla **JavaScript** and **React** projects to refine my front-end skills.
+> - 🌱 I’m currently learning back-end development with **NodeJS**, **Express** and **MongoDB**
+> - 👯 I’m looking to collaborate on any kind of projects that have **JavaScript** as language of choice. 
+> - 🤔 I’m looking for help with **algorithms**, **data structure** and on how to achieve a developer's thinking mind. 
+> - ⚡ Fun fact: **I always thought I was smart until I start coding** :laughing: :laughing:
  <h3 align="center">📫 How to reach me 📫</h3>
 
  <p align="center">
