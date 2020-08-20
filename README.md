@@ -1,5 +1,5 @@
-  <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="280"/>
-#<p align="center">Welcome! <br> I am Omega. <br> </p>
+  <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="200"/>
+  <br/>
   <p align="center">I WORK WITH</p>
   <p align="center">
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="60"/> 
