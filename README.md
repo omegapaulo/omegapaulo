@@ -1,7 +1,7 @@
 # <p align="center">Hi</p>
 ## <p align="center">I work with:</p>
 
-<div align="center">
+<div align="center" markdown="1">
     <img src="./img/html5-original.svg" alt="" width="60">
     <img src="./img/css3-original.svg" alt="" width="60">
     <img src="./img/sass-original.svg" alt="" width="60">
@@ -26,5 +26,5 @@
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="100%">
   <img src="./img/togithub.gif"/>
