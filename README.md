@@ -1,6 +1,6 @@
-  <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="200"/>
-  <br/>
-  <p align="center">I WORK WITH</p>
+  <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
+  &nbsp;
+  <p align="center"><b>I WORK WITH</b></p>
   <p align="center">
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg alt=css3 width="60"/> 
@@ -19,12 +19,15 @@
    <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> 
 
 <div markdown="1" align="center">
-  
-   🔭 I’m currently working on building various vanilla **JavaScript** and **React** projects to refine my front-end skills.
-   🌱 I’m currently learning back-end development with **NodeJS**, **Express** and **MongoDB**
-   👯 I’m looking to collaborate on any kind of projects that have **JavaScript** as language of choice. 
-   🤔 I’m looking for help with **algorithms**, **data structure** and on how to achieve a developer's thinking mind. 
-   ⚡ Fun fact: **I always thought I was smart until I start coding** :laughing: :laughing:
+   <p><b>Hi! I am Omega.</b></p>
+   <p> I’m currently working on building various vanilla <b>JavaScript</b> and <b>React</b> projects to refine my front-end skills. I’m looking to collaborate on any kind of projects that have <b>JavaScript</b> as language of choice.
+   </p>
+   <p>
+     I’m currently learning back-end development with <b>NodeJS</b>, <b>Express</b> and <b>MongoDB</b>
+   </p>
+   <p>
+     ⚡ <b>Fun fact</b>: I always thought I was smart until I start coding :laughing: :laughing:
+   </p>
 </div>
  <h3 align="center">📫 How to reach me 📫</h3>
 
@@ -44,5 +47,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="600">
+<img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="500">
 </p>
