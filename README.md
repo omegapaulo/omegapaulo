@@ -1,6 +1,6 @@
 # <p align="center">Hi</p>
   <p align="center">I WORK WITH</p>
-<div align="center" markdown="1">
+<p align="center" markdown="1">
     <img src="./img/html5-original.svg" alt="" width="60">
     <img src="./img/css3-original.svg" alt="" width="60">
     <img src="./img/sass-original.svg" alt="" width="60">
@@ -12,7 +12,7 @@
     <img src="/img/express-original.svg" alt="" width="60">
     <img src="/img/mongodb-plain.svg" alt="" width="60">
     <img src="./img/webpack-original.svg" alt="" width="60">
-  </div>
+  </p>
 <br>
    <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> 
 
