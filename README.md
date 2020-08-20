@@ -31,9 +31,9 @@
 </div>
  <h3 align="center">📫 How to reach me 📫</h3>
 
- <p align="center">
+ <p align="center"  target="_blank">
   <a href="https://twitter.com/omegapaulo_">
-    <img src="https://img.shields.io/badge/omegapaulo-black?style=flat&logo=twitter" target="_blank">
+    <img src="https://img.shields.io/badge/omegapaulo-black?style=flat&logo=twitter">
   </a> &nbsp;
   <a href="https://www.instagram.com/omegapaulo/">
     <img src="https://img.shields.io/badge/omegapaulo-black?style=flat&logo=instagram">
