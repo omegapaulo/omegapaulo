@@ -33,7 +33,7 @@
 
  <p align="center">
   <a href="https://twitter.com/omegapaulo_">
-    <img src="https://img.shields.io/badge/omegapaulo-black?style=flat&logo=twitter">
+    <img src="https://img.shields.io/badge/omegapaulo-black?style=flat&logo=twitter" target="_blank">
   </a> &nbsp;
   <a href="https://www.instagram.com/omegapaulo/">
     <img src="https://img.shields.io/badge/omegapaulo-black?style=flat&logo=instagram">
