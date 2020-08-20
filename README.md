@@ -1,3 +1,4 @@
+  <img align="right" src="./img/togithub.gif" width="100%" height="280"/>
 # <p align="center">Welcome! <br> I am Omega. <br> </p>
   <p align="center">I WORK WITH</p>
   <p align="center">
@@ -17,11 +18,14 @@
 <br>
    <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> 
 
-> - 🔭 I’m currently working on building vanilla **JavaScript** and **React** projects to refine my front-end skills.
-> - 🌱 I’m currently learning back-end development with **NodeJS**, **Express** and **MongoDB**
-> - 👯 I’m looking to collaborate on any kind of projects that have **JavaScript** as language of choice. 
-> - 🤔 I’m looking for help with **algorithms**, **data structure** and on how to achieve a developer's thinking mind. 
-> - ⚡ Fun fact: **I always thought I was smart until I start coding** :laughing: :laughing:
+<div markdown="1" align="center">
+  
+   🔭 I’m currently working on building various vanilla **JavaScript** and **React** projects to refine my front-end skills.
+   🌱 I’m currently learning back-end development with **NodeJS**, **Express** and **MongoDB**
+   👯 I’m looking to collaborate on any kind of projects that have **JavaScript** as language of choice. 
+   🤔 I’m looking for help with **algorithms**, **data structure** and on how to achieve a developer's thinking mind. 
+   ⚡ Fun fact: **I always thought I was smart until I start coding** :laughing: :laughing:
+</div>
  <h3 align="center">📫 How to reach me 📫</h3>
 
  <p align="center">
@@ -42,4 +46,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="600">
 </p>
-  <!-- <img src="./img/togithub.gif"/> -->
