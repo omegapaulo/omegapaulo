@@ -1,4 +1,4 @@
-  <img align="right" src="../img/togithub.gif" width="100%" height="280"/>
+  <img align="right" src="img/togithub.gif" width="100%" height="280"/>
 # <p align="center">Welcome! <br> I am Omega. <br> </p>
   <p align="center">I WORK WITH</p>
   <p align="center">
