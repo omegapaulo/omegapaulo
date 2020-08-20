@@ -12,7 +12,7 @@
   <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg alt=react width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg alt=react width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg alt=react width="60"/> 
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg alt=react width="60"/> 
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg alt=react width="60"/> 
  </p>
 
 <br>
