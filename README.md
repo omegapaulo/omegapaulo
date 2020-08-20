@@ -1,5 +1,5 @@
-# <p align="center">Hi</p>
-  <p align="center">I WORK WITH</p>
+# <p align="center">Welcome! <br> I am Omega <br><br> I WORK WITH </p>
+  <!-- <p align="center">I WORK WITH</p> -->
   <p align="center">
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg alt=css3 width="60"/> 
