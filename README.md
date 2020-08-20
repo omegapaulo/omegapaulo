@@ -7,10 +7,10 @@
     <img src="./img/javascript-original.svg" width="60" />
     <img src="./img/react-original.svg" alt="" width="60">
     <br>
-    <img src="./img/redux-original.svg" alt="" width="60">
-    <img src="./img/nodejs-original.svg" alt="" width="60">
+    <img src="/img/redux-original.svg" alt="" width="60">
+    <img src="/img/nodejs-original.svg" alt="" width="60">
     <img src="/img/express-original.svg" alt="" width="60">
-    <img src="./img/mongodb-plain.svg" alt="" width="60">
+    <img src="/img/mongodb-plain.svg" alt="" width="60">
     <img src="./img/webpack-original.svg" alt="" width="60">
   </div>
 <br>
