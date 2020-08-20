@@ -1,6 +1,6 @@
 # <p align="center">Hi</p>
   <p align="center">I WORK WITH</p>
-<p align="center" markdown="1">
+<p align="center">
     <img src="./img/html5-original.svg" alt="" width="60">
     <img src="./img/css3-original.svg" alt="" width="60">
     <img src="./img/sass-original.svg" alt="" width="60">
