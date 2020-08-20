@@ -21,8 +21,7 @@
 - 👯 I’m looking to collaborate on any kind of projects that have **JavaScript**/**TypeScript** as language of choice. 
 - 🤔 I’m looking for help with **algorithms**, **data structure** and on how to achieve a developer's thinking mind. 
 - ⚡ Fun fact: **I always thought I was smart until I start coding** :laughing: :laughing:
-<br>
- **<p align="center">📫 How to reach me 📫</p>**
+ <p align="center">📫 How to reach me 📫</p>
 
  <p align="center">
   <a href="https://twitter.com/omegapaulo_">
