@@ -38,12 +38,12 @@
   <a href="https://www.instagram.com/omegapaulo/">
     <img src="https://img.shields.io/badge/omegapaulo-black?style=flat&logo=instagram">
   </a> &nbsp; 
-  <a href="https://www.linkedin.com/in/akanksha-raghav-386938188/">
+  <a href="https://www.linkedin.com/in/paulo-omega-4899ab171/">
     <img src="https://img.shields.io/badge/omegapaulo-black?style=flat&logo=linkedin">
   </a> &nbsp; 
- <a href="https://www.youtube.com/channel/UCRM7WEiJeBEglLYXpWSQfwQ/about?view_as=subscriber">
+<!-- <a href="https://www.youtube.com/channel/UCRM7WEiJeBEglLYXpWSQfwQ/about?view_as=subscriber">
     <img src="https://img.shields.io/badge/omegapaulo-black?style=flat&logo=youtube">
-  </a>
+  </a>-->
 </p>
 
 <p align="center">
