@@ -49,7 +49,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="500">
 </p>
-<details align="center">
+<!-- <details align="center">
   <summary>LANGUAGES STATISTICS</summary>
   <img  src="https://wakatime.com/share/@omegapaulo/c2e69d31-70da-4693-b371-07ca89896af9.svg" width="600" height="400">
-</details>
+</details> -->
