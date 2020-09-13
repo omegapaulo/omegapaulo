@@ -25,7 +25,7 @@
      I’m currently learning back-end development with <b>NodeJS</b>, <b>Express</b> and <b>MongoDB</b>
    </p>
    <p>
-     ⚡ <b>About me</b>: I'm a coding, basketball, comic, tech, wine and sushi enthusiast. In that order always. :alien:
+     :alien: I'm a coding, basketball, comic, tech, wine and sushi enthusiast. In that order always. :alien:
    </p>
 </div>
  <!--<h3 align="center">📫 How to reach me 📫</h3>
