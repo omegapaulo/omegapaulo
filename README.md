@@ -45,10 +45,9 @@
 </p>-->
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&theme=vision-friendly-dark&show_icons=true" width="455">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omegapaulo&theme=vision-friendly-dark&show_icons=true" width="325">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omegapaulo&theme=vision-friendly-dark&show_icons=true&layout=compact" width="325">
 </p>
 <!-- <details align="center">
   <summary>LANGUAGES STATISTICS</summary>
   <img  src="https://wakatime.com/share/@omegapaulo/c2e69d31-70da-4693-b371-07ca89896af9.svg" width="600" height="400">
 </details> -->
-<img src="(https://github-readme-stats.vercel.app/api/pin/?username=omegapaulo&repo=github-readme-stats&theme=vision-friendly-dark)](https://github.com/omegapaulo/github-readme-stats)">
