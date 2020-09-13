@@ -45,7 +45,7 @@
 </p>-->
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&theme=vision-friendly-dark&show_icons=true" width="455">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omegapaulo&theme=vision-friendly-dark&show_icons=true" width="323">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omegapaulo&theme=vision-friendly-dark&show_icons=true" width="325">
 </p>
 <!-- <details align="center">
   <summary>LANGUAGES STATISTICS</summary>
