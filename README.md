@@ -19,7 +19,7 @@
 <!--   <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> -->
 <div markdown="1" align="center">
    <h1>Hi! I'm Omega.</h1>
-   <p> I’m currently working on building various vanilla <b>JavaScript</b> and <b>React</b> projects to refine my front-end skills. I’m looking to collaborate on any kind of projects that have <b>JavaScript</b> as language of choice.
+   <p> I’m currently working on building various vanilla <b>JavaScript</b> and <b>React</b> projects to refine my front-end skills.
    </p>
    <p>
      I’m currently learning back-end development with <b>NodeJS</b>, <b>Express</b> and <b>MongoDB</b>
