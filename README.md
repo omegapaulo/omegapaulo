@@ -44,7 +44,7 @@
   </a>
 </p>-->
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&theme=vision-friendly-dark&show_icons=true"  width="400">
+ <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&theme=vision-friendly-dark&show_icons=true"  width="450">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omegapaulo&theme=vision-friendly-dark&show_icons=true&layout=compact">
 </p>
 <!-- <details align="center">
