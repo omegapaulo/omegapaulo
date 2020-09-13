@@ -44,7 +44,8 @@
   </a>
 </p>-->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="500">
+ <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&theme=vision-friendly-dark&show_icons=true" width="500">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omegapaulo&theme=vision-friendly-dark&show_icons=true" width="355">
 </p>
 <!-- <details align="center">
   <summary>LANGUAGES STATISTICS</summary>
