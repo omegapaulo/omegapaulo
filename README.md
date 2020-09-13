@@ -18,7 +18,7 @@
  </p>
 
 <br>
-   <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> 
+<!--   <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> -->
 
 <div markdown="1" align="center">
    <h1><b>Hi! I am Omega.</b></h1>
