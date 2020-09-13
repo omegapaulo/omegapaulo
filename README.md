@@ -16,7 +16,6 @@
   <img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg alt=mongoDB width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg alt=wordpress width="60"/> 
  </p>
-<br>
 <!--   <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> -->
 <div markdown="1" align="center">
    <h1><b>Hi! I am Omega.</b></h1>
