@@ -1,5 +1,7 @@
-  <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
+<!-- 
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
   &nbsp;
+-->
   <p align="center"><b>I WORK WITH</b></p>
   <p align="center">
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="60"/> 
