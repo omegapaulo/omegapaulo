@@ -49,5 +49,5 @@
 </p>
 <!-- <details align="center">
   <summary>LANGUAGES STATISTICS</summary>
-  <img  src="https://wakatime.com/share/@omegapaulo/c2e69d31-70da-4693-b371-07ca89896af9.svg" width="600" height="400"> &layout=compact" height="250"
+  <img  src="https://wakatime.com/share/@omegapaulo/c2e69d31-70da-4693-b371-07ca89896af9.svg" width="600" height="400"> &layout=compact" height="270"
 </details> -->
