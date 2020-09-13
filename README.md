@@ -28,8 +28,7 @@
      ⚡ <b>Fun fact</b>: I always thought I was smart until I start coding :laughing: :laughing:
    </p>
 </div>
- <h3 align="center">📫 How to reach me 📫</h3>
-
+ <!--<h3 align="center">📫 How to reach me 📫</h3>
  <p align="center">
   <a href="https://twitter.com/omegapaulo_">
     <img src="https://img.shields.io/badge/omegapaulo-black?style=flat&logo=twitter">
@@ -40,11 +39,10 @@
   <a href="https://www.linkedin.com/in/paulo-omega-4899ab171/">
     <img src="https://img.shields.io/badge/omegapaulo-black?style=flat&logo=linkedin">
   </a> &nbsp; 
-<!-- <a href="https://www.youtube.com/channel/UCRM7WEiJeBEglLYXpWSQfwQ/about?view_as=subscriber">
+  <a href="https://www.youtube.com/channel/UCRM7WEiJeBEglLYXpWSQfwQ/about?view_as=subscriber">
     <img src="https://img.shields.io/badge/omegapaulo-black?style=flat&logo=youtube">
-  </a>-->
-</p>
-
+  </a>
+</p>-->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="500">
 </p>
