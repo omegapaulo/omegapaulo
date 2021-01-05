@@ -1,7 +1,6 @@
 
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
   &nbsp;
-  <p align="center"><b>I WORK WITH</b></p>
 
   <!--
   <p align="center">
