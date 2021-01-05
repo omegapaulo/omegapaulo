@@ -21,7 +21,7 @@
 <!--   <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> -->
 <div markdown="1" align="center">
    <h1>Hi! I'm Omega.</h1>
-   <h2>Thanks for stopping by.</h2>
+   <p><b>A full stack developer in the making.</b></p>
    <p> I’m currently working on building various vanilla <b>JavaScript</b> and <b>React</b> projects to refine my front-end skills.
    </p>
    <p>
