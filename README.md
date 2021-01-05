@@ -1,8 +1,9 @@
-<!-- 
+
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
   &nbsp;
   <p align="center"><b>I WORK WITH</b></p>
--->
+
+  <!--
   <p align="center">
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg alt=css3 width="60"/> 
@@ -10,12 +11,14 @@
   <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg alt=react width="60"/>
   <br> 
-  <!-- <img src=https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg alt=redux width="60"/> -->
+   <img src=https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg alt=redux width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg alt=nodeJS width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg alt=express width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg alt=mongoDB width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg alt=wordpress width="60"/> 
  </p>
+  -->
+ 
 <!--   <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> -->
 <div markdown="1" align="center">
    <h1>Hi! I'm Omega.</h1>
