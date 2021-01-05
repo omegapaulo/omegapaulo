@@ -22,7 +22,7 @@
    <p> I’m currently working on building various vanilla <b>JavaScript</b> and <b>React</b> projects to refine my front-end skills.
    </p>
    <p>
-     I’m currently learning back-end development with <b>NodeJS</b>, <b>Express</b> and <b>MongoDB</b>
+     I’m currently learning back-end development with <b>NodeJS</b>, <b>Express</b>, <b>GraphQL</b> and <b>MongoDB</b>
    </p>
    <p>
      :alien: I'm a coding, basketball, comic, tech, wine and sushi enthusiast. In that order always. :alien:
