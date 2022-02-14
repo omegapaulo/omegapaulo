@@ -6,6 +6,8 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 <img align="center" src="/github-metrics.plugin.languages.details.svg" alt="Metrics" width="500">
 
+<img align="center" src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="500">
+
 <!--
   <p align="center">
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="60"/> 
