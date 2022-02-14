@@ -67,8 +67,8 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
   </a>
-  <a href="https://golang.org/">
-    <img src="https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=go&logoColor=white">
+  <a href="https://php.org/">
+    <img src="https://img.shields.io/badge/php-00ADD8?&style=for-the-badge&logo=php&logoColor=white">
   </a>
   <a href="https://www.rust-lang.org/">
     <img src="https://img.shields.io/badge/rust-000000?&style=for-the-badge&logo=rust&logoColor=white">
