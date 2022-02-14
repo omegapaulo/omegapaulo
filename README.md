@@ -4,6 +4,7 @@
 -->
 <p align="center">
   <img align="center" src="/github-metrics.svg" alt="Metrics" >
+   &nbsp;
   <img align="center" src="/metrics.plugin.achievements.svg" alt="Metrics" >
 </p>
 <p>
