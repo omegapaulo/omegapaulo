@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -50,7 +50,7 @@ jobs:
           plugin_languages_ignored: >-
               html, tex, dockerfile, makefile, qmake, lex, cmake,
               gnuplot
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage
           
           plugin_followup: yes
           plugin_followup_sections: repositories, user
