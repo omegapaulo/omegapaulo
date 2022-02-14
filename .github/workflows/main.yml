@@ -49,6 +49,9 @@ jobs:
           
           plugin_followup: yes
           plugin_followup_sections: repositories, user
+          
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }} 
         
 
       - name: Achievements
