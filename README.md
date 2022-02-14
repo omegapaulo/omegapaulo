@@ -3,8 +3,8 @@
   &nbsp;
 -->
 <p align="center">
-<img  src="/github-metrics.svg" alt="Metrics" width="500">
- <img  src="/metrics.plugin.languages.details.svg" alt="Metrics" width="500">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
+ <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="500">
 </p>
 <!--
   <p align="center">
