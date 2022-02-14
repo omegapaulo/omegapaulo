@@ -47,9 +47,7 @@ jobs:
               gnuplot
           plugin_languages_details: percentage
           
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-         
+          
       - name: Followup
         uses: lowlighter/metrics@latest
         with:
@@ -62,8 +60,8 @@ jobs:
       - name: wakatime
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.wakatime.details.svg
-          token: ${{ secrets.WAKATIME_TOKEN }}
+          filename: metrics.plugin.wakatime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, languages, editors, os
