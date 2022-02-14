@@ -22,10 +22,10 @@
 <div markdown="1" align="center">
    <h1>Hi! I'm Omega.</h1>
    <p><b>A FULL STACK DEVELOPER IN THE MAKING.</b></p>
-   <p> I’m currently working on building various vanilla <b>JavaScript</b> and <b>React</b> projects to refine my front-end skills.
+   <p>A developer passionate about this amazing world of technology.
    </p>
    <p>
-     I’m currently learning back-end development with <b>NodeJS</b>, <b>Express</b>, <b>GraphQL</b> and <b>MongoDB</b>
+     Welcome to my GitHub, here you will find my projects and my collaborations for the open source world.
    </p>
    <p>
      :alien: I'm a coding, basketball, comic, tech, wine and sushi enthusiast. In that order always. :alien:
