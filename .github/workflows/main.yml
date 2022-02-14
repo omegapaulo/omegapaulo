@@ -25,6 +25,7 @@ jobs:
           
           #plugin_isocalendar: yes
           
+          plugin_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, vue, scala, c, c++
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
