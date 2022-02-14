@@ -8,7 +8,11 @@
   <img align="right" src="/metrics.plugin.achievements.svg" alt="Metrics" >
 </p>
 <p>
- <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="500">
+  <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="500">
+   &nbsp;
+  <img align="center" src="/metrics.plugin.followup.details.svg" alt="Metrics" width="500">
+   &nbsp;
+  <img align="center" src="/metrics.plugin.wakatime.details.svg" alt="Metrics" width="500">
 </p>
 <!--
   <p align="center">
