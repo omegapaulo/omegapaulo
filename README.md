@@ -1,8 +1,11 @@
 <!--
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
   &nbsp;
+-->
 
 
+
+<!--
   <p align="center">
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="60"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg alt=css3 width="60"/> 
@@ -50,16 +53,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&theme=vision-friendly-dark&show_icons=true"  width="420">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omegapaulo&theme=vision-friendly-dark&show_icons=true&layout=compact" width="410">
 </p>
-<!-- <details align="center">
-  <summary>LANGUAGES STATISTICS</summary>
-  <img  src="https://wakatime.com/share/@omegapaulo/c2e69d31-70da-4693-b371-07ca89896af9.svg" width="600" height="400"> &layout=compact" height="270"
-</details> -->
 
-<p align="center">
-  <a href="https://github.com/lowlighter/metrics">
-    <img src="./github-metrics.svg">
-  </a>
-</p> 
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
@@ -76,25 +70,24 @@
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
   </a>
+  <a href="https://mongodb.org/">
+    <img src="https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+  <br>
   <a href="https://php.org/">
     <img src="https://img.shields.io/badge/php-000?&style=for-the-badge&logo=php&logoColor=white">
   </a>
-  <a href="https://html.com/">
-    <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5&logoColor=white">
+  <a href="https://python.org/">
+    <img src="https://img.shields.io/badge/python-000?&style=for-the-badge&logo=python&logoColor=white">
   </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=white">
+  <a href="https://www.graphql.com/">
+    <img src="https://img.shields.io/badge/graphql-000?style=for-the-badge&logo=graphql&logoColor=white">
   </a>
-  <br>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-000?&style=for-the-badge&logo=git&logoColor=white">
-  </a>
-  <br>
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-000?&style=for-the-badge&logo=react&logoColor=121212">
   </a>
-  <a href="https://www.sql.org/index.html">
-    <img src="https://img.shields.io/badge/sql-000?&style=for-the-badge&logo=sql&logoColor=white">
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/mysql-000?&style=for-the-badge&logo=mysql&logoColor=white">
   </a>
 </p>
 
@@ -109,6 +102,9 @@
     <a href="https://raklaptudirm.medium.com/">
       <img src="https://img.shields.io/badge/medium-000000?&style=for-the-badge&logo=medium&logoColor=white">
     </a> -->
+  <a href="https://www.instagram.com/omegapaulo/">
+    <img src="https://img.shields.io/badge/instagram-000?&style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
     <a href="https://www.linkedin.com/in/paulo-omega-4899ab171/">
       <img src="https://img.shields.io/badge/linkedin-000?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -119,7 +115,7 @@
 
 <h4 align="center"> The widgets on my <code>README.md</code> are works of many other contributers. Click on the widgets to use them yourself. </h4>
 
-<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+<!-- <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
 <a>
-
+ -->
