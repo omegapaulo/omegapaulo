@@ -49,12 +49,26 @@ jobs:
           
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-          
+         
+      - name: Followup
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.followup.details.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user    
+        
+      - name: wakatime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.details.svg
+          token: ${{ secrets.WAKATIME_TOKEN }}
+          base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, languages, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }} 
-        
-
+          
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
