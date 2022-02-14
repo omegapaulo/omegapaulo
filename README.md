@@ -2,11 +2,18 @@
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
   &nbsp;
 -->
-<p align="center">
-  <img align="left" src="/github-metrics.svg" alt="Metrics" >
-   &nbsp;
-  <img align="right" src="/metrics.plugin.achievements.svg" alt="Metrics" >
-</p>
+<div markdown="1" align="center">
+   <h1>Hi! I'm Omega.</h1>
+   <p><b>A FULL STACK DEVELOPER IN THE MAKING.</b></p>
+   <p>A developer passionate about this amazing world of technology.
+   </p>
+   <p>
+     Welcome to my GitHub, here you will find my projects and my collaborations for the open source world.
+   </p>
+   <p>
+     :alien: I'm a coding, basketball, comic, tech, wine and sushi enthusiast. In that order always. :alien:
+   </p>
+</div>
 <div>
   <p>
     <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="500">
@@ -18,6 +25,16 @@
     <img align="center" src="/metrics.plugin.wakatime.svg" alt="Metrics" width="500">
   </p> 
 </div>
+
+<details>
+  <summary>More GitHub Stats</summary>
+  <p align="center">
+  <img align="left" src="/github-metrics.svg" alt="Metrics" >
+   &nbsp;
+  <img align="right" src="/metrics.plugin.achievements.svg" alt="Metrics" >
+</p>
+ </details>
+
 <!--
   <p align="center">
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="60"/> 
@@ -35,18 +52,7 @@
   -->
  
 <!--   <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> -->
-<div markdown="1" align="center">
-   <h1>Hi! I'm Omega.</h1>
-   <p><b>A FULL STACK DEVELOPER IN THE MAKING.</b></p>
-   <p>A developer passionate about this amazing world of technology.
-   </p>
-   <p>
-     Welcome to my GitHub, here you will find my projects and my collaborations for the open source world.
-   </p>
-   <p>
-     :alien: I'm a coding, basketball, comic, tech, wine and sushi enthusiast. In that order always. :alien:
-   </p>
-</div>
+
  <!--<h3 align="center">📫 How to reach me 📫</h3>
  <p align="center">
   <a href="https://twitter.com/omegapaulo_">
