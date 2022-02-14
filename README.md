@@ -14,25 +14,31 @@
      :alien: I'm a coding, basketball, comic, tech, wine and sushi enthusiast. In that order always. :alien:
    </p>
 </div>
-<div>
+<div align="center">
   <p>
-    <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="500">
+    <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" >
   </p>
   <p>
-    <img align="center" src="/metrics.plugin.followup.details.svg" alt="Metrics" width="500">
+    <img align="center" src="/metrics.plugin.followup.details.svg" alt="Metrics" >
   </p>
   <p>
-    <img align="center" src="/metrics.plugin.wakatime.svg" alt="Metrics" width="500">
+    <img align="center" src="/metrics.plugin.wakatime.svg" alt="Metrics" >
   </p> 
 </div>
 
-<details>
+<details align="center" width="100%">
   <summary>More GitHub Stats</summary>
-  <p align="center">
-  <img align="left" src="/github-metrics.svg" alt="Metrics" >
-   &nbsp;
-  <img align="right" src="/metrics.plugin.achievements.svg" alt="Metrics" >
-</p>
+  <div align="center" margin="auto">
+    <img align="left" src="/github-metrics.svg" alt="Metrics" >
+    &nbsp;
+    <img align="right" src="/metrics.plugin.achievements.svg" alt="Metrics" >
+  </div>
+  
+<!--   <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&theme=vision-friendly-dark&show_icons=true" width="400" />
+    &nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omegapaulo&theme=vision-friendly-dark&show_icons=true" alt="Streak Stats" width="400" />
+  </p> -->
  </details>
 
 <!--
@@ -68,10 +74,7 @@
     <img src="https://img.shields.io/badge/omegapaulo-black?style=flat&logo=youtube">
   </a>
 </p>-->
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&theme=vision-friendly-dark&show_icons=true"  width="420">
- <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omegapaulo&theme=vision-friendly-dark&show_icons=true&layout=compact" width="410">-->
-</p>
+
 
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
