@@ -4,7 +4,7 @@
 -->
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
-<img align="center" src="/github-metrics.plugin.languages.details.svg" alt="Metrics" width="500">
+<img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="500">
 
 <img align="center" src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="500">
 
