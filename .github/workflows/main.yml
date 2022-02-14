@@ -26,9 +26,6 @@ jobs:
           
           #plugin_introduction: yes
           
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }} 
-          
           plugin_lines: yes
             
         # Runs a set of commands using the runners shell
