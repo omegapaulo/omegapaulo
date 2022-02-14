@@ -7,13 +7,17 @@
    &nbsp;
   <img align="right" src="/metrics.plugin.achievements.svg" alt="Metrics" >
 </p>
-<p>
-  <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="500">
-   &nbsp;
-  <img align="center" src="/metrics.plugin.followup.details.svg" alt="Metrics" width="500">
-   &nbsp;
-  <img align="center" src="/metrics.plugin.wakatime.details.svg" alt="Metrics" width="500">
-</p>
+<div>
+  <p>
+    <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="500">
+  </p>
+  <p>
+    <img align="center" src="/metrics.plugin.followup.details.svg" alt="Metrics" width="500">
+  </p>
+  <p>
+    <img align="center" src="/metrics.plugin.wakatime.details.svg" alt="Metrics" width="500">
+  </p> 
+</div>
 <!--
   <p align="center">
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="60"/> 
