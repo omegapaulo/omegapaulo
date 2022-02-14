@@ -2,9 +2,9 @@
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
   &nbsp;
 -->
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
-
+<p align="center">
+<img  src="/github-metrics.svg" alt="Metrics" width="500">
+</p>
 <!--
   <p align="center">
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="60"/> 
