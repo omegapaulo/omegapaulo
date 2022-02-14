@@ -65,36 +65,36 @@
 
 <p align="center">
   <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-000?&style=for-the-badge&logo=typescript&logoColor=white">
   </a>
    <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
    <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/NODE.JS-000?style=for-the-badge&logo=Node.js&logoColor=white">
   </a>
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
   </a>
   <a href="https://php.org/">
-    <img src="https://img.shields.io/badge/php-00ADD8?&style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/php-000?&style=for-the-badge&logo=php&logoColor=white">
   </a>
   <a href="https://html.com/">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5&logoColor=white">
   </a>
   <a href="https://www.w3schools.com/css/">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=white">
   </a>
   <br>
   <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/git-000?&style=for-the-badge&logo=git&logoColor=white">
   </a>
   <br>
   <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
+    <img src="https://img.shields.io/badge/react-000?&style=for-the-badge&logo=react&logoColor=121212">
   </a>
   <a href="https://www.sql.org/index.html">
-    <img src="https://img.shields.io/badge/sql-003B57?&style=for-the-badge&logo=sql&logoColor=white">
+    <img src="https://img.shields.io/badge/sql-000?&style=for-the-badge&logo=sql&logoColor=white">
   </a>
 </p>
 
