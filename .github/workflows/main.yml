@@ -18,18 +18,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      - name: 🦑 General
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          plugin_languages: yes
-         
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_details: yes
-          plugin_languages_limit: 2
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          plugin_notable: yes
-          plugin_notable_repositories: yes
-          plugin_discussions: yes
+     
