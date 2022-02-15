@@ -36,22 +36,28 @@
 <details align="center" width="100%">
   <summary>More GitHub Stats</summary>
   <div align="center">
-    <img align="left" src="/github-metrics.svg" alt="Metrics" >
+    <img align="center" src="/github-metrics.svg" alt="Metrics" >
+<!--     <img align="right" src="/metrics.plugin.achievements.svg" alt="Metrics"> -->
+  </div>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&theme=vision-friendly-dark&show_icons=true" width="350"/>
+    &nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omegapaulo&theme=vision-friendly-dark&show_icons=true" alt="Streak Stats" width="350"/>
+  </p>
+  
+  <div align="center">
     <img align="right" src="/metrics.plugin.achievements.svg" alt="Metrics">
   </div>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=omegapaulo&theme=vision-friendly-dark&show_icons=true" width="400" />
-    &nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omegapaulo&theme=vision-friendly-dark&show_icons=true" alt="Streak Stats" width="400" />
-  </p>
  </details>
 
  
 <!--   <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> -->
 
 
-<h1 > 🔧Tools: </h1>
+<h1 align="center"> 🔧Tools: </h1>
 <p align="center">
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-000?&style=for-the-badge&logo=typescript&logoColor=white">
