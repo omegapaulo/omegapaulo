@@ -49,7 +49,7 @@
   </p>
   
   <div align="center">
-    <img align="right" src="/metrics.plugin.achievements.svg" alt="Metrics">
+    <img align="center" src="/metrics.plugin.achievements.svg" alt="Metrics">
   </div>
  </details>
 
