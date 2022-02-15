@@ -11,7 +11,7 @@
      Welcome to my GitHub, here you will find my projects and my collaborations for the open source world.
    </p>
    <p>
-     :alien: I'm a coding, basketball, comic, tech, wine and sushi enthusiast. In that order always. :alien:
+     :alien: I'm a coding, basketball, comics, anime, tech, wine and sushi enthusiast. :alien:
    </p>
 </div>
 <div align="center">
