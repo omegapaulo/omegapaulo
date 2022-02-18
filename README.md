@@ -101,7 +101,7 @@
   <a href="https://www.instagram.com/omazingking/">
     <img src="https://img.shields.io/badge/instagram-000?&style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-    <a href="https://www.linkedin.com/in/paulo-omega-4899ab171/">
+    <a href="https://www.linkedin.com/in/paulo-omega-4899ab171/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-000?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
