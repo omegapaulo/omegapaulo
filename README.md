@@ -94,7 +94,7 @@
 
 <h1 align="center"> 🤝 Socials: </h1>
   <p align="center">
-    <a href="https://twitter.com/omegapaulo_">
+    <a href="https://twitter.com/omegapaulo_" target="_blank">
       <img src="https://img.shields.io/badge/twitter-000?&style=for-the-badge&logo=twitter&logoColor=white">
     </a>
 
