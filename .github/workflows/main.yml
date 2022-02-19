@@ -39,7 +39,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.details.svg
-          
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
@@ -52,7 +52,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.followup.details.svg
-          
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_followup: yes
           plugin_followup_sections: repositories, user    
@@ -61,7 +61,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.wakatime.svg
-          
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, languages, editors, os
@@ -71,7 +71,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
-          
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_threshold: B
