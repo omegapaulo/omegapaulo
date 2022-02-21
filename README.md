@@ -22,9 +22,9 @@
   <p>
     <img align="center" src="/metrics.plugin.wakatime.svg" alt="Metrics" >
   </p> 
-  <p>
+  <!--<p>
     <img align="center" src="/metrics.plugin.habits.facts.svg" alt="Metrics" >
-  </p> 
+  </p> -->
 </div>
 
 <details align="center" width="100%">
