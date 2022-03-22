@@ -88,7 +88,7 @@
     <img src="https://img.shields.io/badge/graphql-000?style=for-the-badge&logo=graphql&logoColor=white">
   </a>
   <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/reactjs-000?&style=for-the-badge&logo=react&logoColor=121212">
+    <img src="https://img.shields.io/badge/reactjs-000?&style=for-the-badge&logo=react&logoColor=white">
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/mysql-000?&style=for-the-badge&logo=mysql&logoColor=white">
