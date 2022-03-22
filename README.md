@@ -65,12 +65,20 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-000?&style=for-the-badge&logo=typescript&logoColor=white">
   </a>
+  <a href="https://www.nextjs.org/">
+    <img src="https://img.shields.io/badge/nextjs-000?&style=for-the-badge&logo=next.js&logoColor=white">
+  </a>
+  <!--
    <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
    <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/NODE.JS-000?style=for-the-badge&logo=Node.js&logoColor=white">
   </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/reactjs-000?&style=for-the-badge&logo=react&logoColor=white">
+  </a>
+  -->
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
   </a>
@@ -78,23 +86,17 @@
     <img src="https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>
   <br>
+  <a href="https://www.graphql.com/">
+    <img src="https://img.shields.io/badge/graphql-000?style=for-the-badge&logo=graphql&logoColor=white">
+  </a>
   <a href="https://php.org/">
     <img src="https://img.shields.io/badge/php-000?&style=for-the-badge&logo=php&logoColor=white">
   </a>
   <a href="https://python.org/">
     <img src="https://img.shields.io/badge/python-000?&style=for-the-badge&logo=python&logoColor=white">
   </a>
-  <a href="https://www.graphql.com/">
-    <img src="https://img.shields.io/badge/graphql-000?style=for-the-badge&logo=graphql&logoColor=white">
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/reactjs-000?&style=for-the-badge&logo=react&logoColor=white">
-  </a>
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/mysql-000?&style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
-  <a href="https://www.nextjs.org/">
-    <img src="https://img.shields.io/badge/nextjs-000?&style=for-the-badge&logo=next&logoColor=white">
   </a>
 </p>
 
