@@ -93,6 +93,9 @@
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/mysql-000?&style=for-the-badge&logo=mysql&logoColor=white">
   </a>
+  <a href="https://www.nextjs.org/">
+    <img src="https://img.shields.io/badge/nextjs-000?&style=for-the-badge&logo=nextjs&logoColor=white">
+  </a>
 </p>
 
 <h1 align="center"> 🤝 Socials: </h1>
