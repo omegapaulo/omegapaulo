@@ -27,7 +27,7 @@
   </p> -->
 </div>
 
-<details align="center" width="100%">
+<!-- <details align="center" width="100%">
   <summary>Issues && PR's</summary>
   <div align="center">
    <p>
@@ -40,7 +40,7 @@
   <summary>More GitHub Stats</summary>
   <div align="center">
     <img align="center" src="/github-metrics.svg" alt="Metrics" >
-<!--     <img align="right" src="/metrics.plugin.achievements.svg" alt="Metrics"> -->
+<img align="right" src="/metrics.plugin.achievements.svg" alt="Metrics">
   </div>
   &nbsp;
   &nbsp;
@@ -50,14 +50,13 @@
     &nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=omegapaulo&theme=vision-friendly-dark&show_icons=true" alt="Streak Stats" width="350"/>
   </p>
-  
+
   <div align="center">
     <img align="center" src="/metrics.plugin.achievements.svg" alt="Metrics">
   </div>
  </details>
 
- 
-<!--   <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> -->
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> -->
 
 
 <h1 align="center"> 🔧Tools: </h1>
