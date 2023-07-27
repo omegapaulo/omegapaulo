@@ -81,7 +81,6 @@
   <a href="https://python.org/">
     <img src="https://img.shields.io/badge/python-000?&style=for-the-badge&logo=python&logoColor=white">
   </a>
-  -->
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
   </a>
@@ -122,4 +121,5 @@
 
 <h4 align="center"> The widgets on my <code>README.md</code> are works of many other contributers. Click on the widgets to use them yourself. </h4>
 
+  -->
 
