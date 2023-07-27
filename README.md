@@ -59,6 +59,7 @@
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> -->
 
+  <!--
 
 <h1 align="center"> 🔧Tools: </h1>
 <p align="center">
@@ -68,7 +69,6 @@
   <a href="https://www.nextjs.org/">
     <img src="https://img.shields.io/badge/nextjs-000?&style=for-the-badge&logo=next.js&logoColor=white">
   </a>
-  <!--
    <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
