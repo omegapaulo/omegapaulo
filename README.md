@@ -1,7 +1,6 @@
 <!--
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
   &nbsp;
--->
 <div markdown="1" align="center">
    <h1>Hi! I'm Omega.</h1>
    <p><b>A FULL STACK DEVELOPER IN THE MAKING.</b></p>
@@ -14,6 +13,8 @@
      :alien: I'm a coding, basketball, comics, anime, tech, wine and sushi enthusiast. :alien:
    </p>
 </div>
+-->
+
 <div align="center">
   <p>
     <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" >
