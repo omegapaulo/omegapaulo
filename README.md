@@ -25,10 +25,10 @@
   </p> 
   <p>
     <img align="center" src="/metrics.plugin.habits.facts.svg" alt="Metrics" >
-  </p> -->
+  </p>
 </div>
 
-<!-- <details align="center" width="100%">
+<details align="center" width="100%">
   <summary>Issues && PR's</summary>
   <div align="center">
    <p>
