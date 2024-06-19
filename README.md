@@ -20,9 +20,11 @@
     <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" >
   </p>
   <img src="https://wakatime.com/badge/user/68ab7c56-f9d4-4636-a527-df05f7ffca29.svg">
+  <a href="https://wakatime.com/@68ab7c56-f9d4-4636-a527-df05f7ffca29"><img src="https://wakatime.com/badge/user/68ab7c56-f9d4-4636-a527-df05f7ffca29.svg" alt="Total time coded since Oct 8 2019" /></a>
 
+    
  <!-- <p>
-    <img align="center" src="/metrics.plugin.wakatime.svg" alt="Metrics" >
+ <img align="center" src="/metrics.plugin.wakatime.svg" alt="Metrics" >
   </p>
   <p>
     <img align="center" src="/metrics.plugin.habits.facts.svg" alt="Metrics" >
