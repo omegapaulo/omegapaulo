@@ -56,7 +56,7 @@
  </details>
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> -->
-
+<!--
 <h1 align="center"> 🔧Tools: </h1>
 <p align="center">
   <a href="https://www.typescriptlang.org/">
@@ -105,4 +105,4 @@
 
 <h4 align="center"> The widgets on my <code>README.md</code> are works of many other contributers. Click on the widgets to use them yourself. </h4>
 
-
+ -->
