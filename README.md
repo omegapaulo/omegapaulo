@@ -1,5 +1,5 @@
-<div max-width="100" margin-left="auto" margin-right="auto";>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
+<div width="fit-content" margin-left="auto" margin-right="auto" align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="250"/>
 </di>
   &nbsp;
 <!-- <div markdown="1" align="center">
