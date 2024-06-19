@@ -1,4 +1,6 @@
+<di margin-left: auto; margin-right: auto;>
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
+</di>
   &nbsp;
 <!-- <div markdown="1" align="center">
    <h1>Hi! I'm Omega.</h1>
