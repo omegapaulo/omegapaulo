@@ -19,6 +19,7 @@
   <p>
     <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" >
   </p>
+  <img src="https://wakatime.com/badge/user/68ab7c56-f9d4-4636-a527-df05f7ffca29.svg">
 
  <!-- <p>
     <img align="center" src="/metrics.plugin.wakatime.svg" alt="Metrics" >
