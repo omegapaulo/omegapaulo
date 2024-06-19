@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
+<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
   &nbsp;
 <!-- <div markdown="1" align="center">
    <h1>Hi! I'm Omega.</h1>
