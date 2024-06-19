@@ -102,21 +102,6 @@
   </a>
 </p>
 
-<h1 align="center"> 🤝 Socials: </h1>
-  <p align="center">
-    <a href="https://twitter.com/omegapaulo_" target="_blank">
-      <img src="https://img.shields.io/badge/twitter-000?&style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-
-  <a href="https://www.instagram.com/omazingking/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-000?&style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-    <a href="https://www.linkedin.com/in/paulo-omega-4899ab171/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-000?&style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  </p>
-</h1>
-
 <hr>
 
 <h4 align="center"> The widgets on my <code>README.md</code> are works of many other contributers. Click on the widgets to use them yourself. </h4>
