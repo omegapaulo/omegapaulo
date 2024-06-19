@@ -1,7 +1,6 @@
-<!--
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="250"/>
   &nbsp;
-<div markdown="1" align="center">
+<!-- <div markdown="1" align="center">
    <h1>Hi! I'm Omega.</h1>
    <p><b>A FULL STACK DEVELOPER IN THE MAKING.</b></p>
    <p>A developer passionate about this amazing world of technology.
@@ -12,17 +11,16 @@
    <p>
      :alien: I'm a coding, basketball, comics, anime, tech, wine and sushi enthusiast. :alien:
    </p>
-</div>
--->
+</div> -->
 
 <div align="center">
   <p>
     <img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" >
   </p>
- 
+
  <!-- <p>
     <img align="center" src="/metrics.plugin.wakatime.svg" alt="Metrics" >
-  </p> 
+  </p>
   <p>
     <img align="center" src="/metrics.plugin.habits.facts.svg" alt="Metrics" >
   </p>
@@ -59,8 +57,6 @@
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=omegapaulo alt="Paulo Omega"/></p> -->
 
-  <!--
-
 <h1 align="center"> 🔧Tools: </h1>
 <p align="center">
   <a href="https://www.typescriptlang.org/">
@@ -87,6 +83,9 @@
   <a href="https://mongodb.org/">
     <img src="https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>
+  <a href="https://cprogramming.com/">
+    <img src="https://img.shields.io/badge/-Programming-000?style=for-the-badge&logo=c&logoColor=white">
+  </a>
   <br>
   <a href="https://www.sass-lang.com/">
     <img src="https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass&logoColor=white">
@@ -106,5 +105,4 @@
 
 <h4 align="center"> The widgets on my <code>README.md</code> are works of many other contributers. Click on the widgets to use them yourself. </h4>
 
-  -->
 
