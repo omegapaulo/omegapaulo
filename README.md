@@ -1,6 +1,6 @@
-<div   align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="250"/>
-</di>
+</div>
   &nbsp;
 <!-- <div markdown="1" align="center">
    <h1>Hi! I'm Omega.</h1>
