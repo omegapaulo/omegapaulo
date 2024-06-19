@@ -1,4 +1,4 @@
-<div width="fit-content" margin-left="auto" margin-right="auto" align="center">
+<div   align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="250"/>
 </di>
   &nbsp;
